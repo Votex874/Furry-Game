@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e48eb63-c74d-4b15-b7c0-70ed44eb4fc1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/js/coin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/furry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="6e48eb63-c74d-4b15-b7c0-70ed44eb4fc1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,7 +16,7 @@
     <splitter split-orientation="horizontal" split-proportion="0.5869716">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="614">
@@ -34,7 +25,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="out.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="out.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/out.js">
               <provider selected="true" editor-type-id="text-editor" />
             </entry>
@@ -204,12 +195,12 @@
       <updated>1532870561461</updated>
       <workItem from="1532870563736" duration="5561000" />
       <workItem from="1532963457651" duration="3615000" />
-      <workItem from="1533296932642" duration="8276000" />
+      <workItem from="1533296932642" duration="8800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17452000" />
+    <option name="totallyTimeSpent" value="17976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="0" width="1940" height="862" extended-state="0" />
@@ -355,9 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/out.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1615">
@@ -371,6 +359,9 @@
           <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/out.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
